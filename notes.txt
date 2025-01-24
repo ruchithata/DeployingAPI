@@ -1,8 +1,0 @@
-clone
-cd
-npm init -y
-npm i express dotenv
-
-create index.js file and create server
-
-node --watch index.js 
